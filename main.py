@@ -1,5 +1,7 @@
 # a = amount
 # b = balance
+
+# 1 task
 # class Bank_Account:
 #     def __init__(self):
 #         self.b = 0
@@ -21,6 +23,10 @@
 # ba.withdraw()
 # ba.balance()
 
+
+
+
+# 2 task
 # class Money_converter:
 #     def __init__(self):
 #         self.b = 0
